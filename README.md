@@ -7,9 +7,9 @@ the ROS Token enables individuals worldwide to seamlessly support our ongoing ef
 ensuring that ROS remains a steadfast pillar of support for those in need.
 </br>
 <a href="https://rostoken.rf.gd">➔ WEBSITE</a> </br>
-<a href="url">➔ SMART CONTRACT CODE</a> </br>
-<a href="url">➔ WHITEPAPER</a> </br>
-<a href="url">➔ ROADMAP</a> </br>
-<a href="url">➔ TICKETING</a> </br>
-<a href="url">➔ TEAM</a> </br>
+<a href="https://github.com/Rostokens/Contract">➔ SMART CONTRACT CODE</a> </br>
+<a href="https://github.com/Rostokens/Whitepaper">➔ WHITEPAPER</a> </br>
+<a href="https://github.com/Rostokens/Roadmap">➔ ROADMAP</a> </br>
+<a href="https://github.com/Rostokens/Contact">➔ TICKETING</a> </br>
+<a href="https://github.com/Rostokens/Team">➔ TEAM</a> </br>
 <a href="https://medium.com/@rostokens">➔ BLOG</a> </br>
