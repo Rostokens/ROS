@@ -12,3 +12,4 @@ ensuring that ROS remains a steadfast pillar of support for those in need.
 <a href="url">➔ ROADMAP</a> </br>
 <a href="url">➔ TICKETING</a> </br>
 <a href="url">➔ TEAM</a> </br>
+<a href="https://medium.com/@rostokens">➔ BLOG</a> </br>
